@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:kick("There has been an issue executing the script. \n We're working on a fix. Please stay patient, thank you")
